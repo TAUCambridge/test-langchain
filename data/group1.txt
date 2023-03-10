@@ -1,0 +1,41 @@
+1. 2021-10-07 11:00:00(UTC) Mary: Hi everyone, how's it going?
+2. 2021-10-07 11:05:00(UTC) Alex: Hey, pretty good! What about you?
+3. 2021-10-07 11:07:00(UTC) Mary: Not bad. Just wondering what everyone is up to today?
+4. 2021-10-07 11:10:00(UTC) Tom: I'm meeting up with some friends to play a game of basketball.
+5. 2021-10-07 11:12:00(UTC) Alex: Sounds like fun! I'm studying for a test I have tomorrow.
+6. 2021-10-07 11:15:00(UTC) Mary: I'm going to the mall to do some shopping.
+7. 2021-10-07 11:17:00(UTC) Tom: Nice! I'm sure you'll find something great.
+8. 2021-10-07 11:20:00(UTC) Alex: Have fun! Let us know how it goes.
+9. 2021-10-07 11:22:00(UTC) Mary: Will do!
+10. 2021-10-07 11:25:00(UTC) Tom: So, what do everyone have planned for the weekend?
+11. 2021-10-07 11:27:00(UTC) Alex: I'm planning to go camping with some friends.
+12. 2021-10-07 11:30:00(UTC) Mary: Sounds like fun! I'm going to a concert with some friends.
+13. 2021-10-07 11:32:00(UTC) Tom: Awesome! I'm going to a movie marathon with some friends.
+14. 2021-10-07 11:35:00(UTC) Alex: That sounds like a great way to spend the weekend!
+15. 2021-10-07 11:37:00(UTC) Mary: Definitely! What kind of movies are you guys planning to watch?
+16. 2021-10-07 11:40:00(UTC) Tom: We're going to watch a bunch of classic horror movies.
+17. 2021-10-07 11:42:00(UTC) Alex: Sounds like a spooky plan! Have fun.
+18. 2021-10-07 11:45:00(UTC) Mary: Yeah, I'm sure it'll be a blast. What about you Alex? Anything exciting planned?
+19. 2021-10-07 11:47:00(UTC) Alex: Besides camping, I'm planning to go fishing with some friends.
+20. 2021-10-07 11:50:00(UTC) Tom: That sounds like a great way to spend the weekend!
+21. 2021-10-07 11:52:00(UTC) Mary: Definitely! Have a great time.
+22. 2021-10-07 11:55:00(UTC) Alex: Thanks! I'm sure it'll be a fun weekend.
+23. 2021-10-07 11:57:00(UTC) Tom: Alright, what about everyone else? What are you guys up to?
+24. 2021-10-07 12:00:00(UTC) Mary: I'm planning to catch a movie with some friends.
+25. 2021-10-07 12:02:00(UTC) Alex: Sounds like fun! What movie are you guys going to watch?
+26. 2021-10-07 12:05:00(UTC) Mary: We're going to watch the latest Marvel movie.
+27. 2021-10-07 12:07:00(UTC) Tom: Sounds like a good plan! I'm sure you'll have a great time.
+28. 2021-10-07 12:10:00(UTC) Alex: Definitely! Have fun.
+29. 2021-10-07 12:12:00(UTC) John: Hey everyone! What's up?
+30. 2021-10-07 12:15:00(UTC) Mary: Hey John! We were just talking about what we're all doing this weekend.
+31. 2021-10-07 12:17:00(UTC) John: Oh cool! I'm planning to go to a theme park with some friends.
+32. 2021-10-07 12:20:00(UTC) Tom: Sounds like a lot of fun! Have a great time.
+33. 2021-10-07 12:22:00(UTC) John: Thanks! What about you guys?
+34. 2021-10-07 12:25:00(UTC) Alex: I'm going camping with some friends.
+35. 2021-10-07 12:27:00(UTC) Mary: And I'm going to a concert with some friends.
+36. 2021-10-07 12:30:00(UTC) John: Sounds like you guys have some cool plans! I'm looking forward to hearing all about it.
+37. 2021-10-07 12:32:00(UTC) Tom: Definitely! We'll have plenty of stories to share when we get back.
+38. 2021-10-07 12:35:00(UTC) Alex: Absolutely! It's always fun to hear about everyone's weekend adventures.
+39. 2021-10-07 12:37:00(UTC) Mary: Yeah, can't wait to hear all about it!
+40. 2021-10-07 12:40:00(UTC) John: Me too! Well, I'm off to get ready for my weekend. See you guys later.
+41. 2021-10-07 12:42:00(UTC) Tom: Alright, have a great time!

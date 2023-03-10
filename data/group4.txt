@@ -1,0 +1,61 @@
+2023-03-10 09:02:00(UTC) Li: Are you okay?
+
+2023-03-10 09:05:00(UTC) Zhou: Yeah, it'll be gone in a few minutes.
+
+2023-03-10 09:06:00(UTC) Zhang: Take some medicine, it might help.
+
+2023-03-10 09:08:00(UTC) Zhou: I think it's just stress. I need to relax a bit.
+
+2023-03-10 09:10:00(UTC) Wang: Have you tried doing some yoga?
+
+2023-03-10 09:12:00(UTC) Zhou: Yeah, that's a good idea.
+
+2023-03-10 09:15:00(UTC) Xu: You should get some rest as well.
+
+2023-03-10 09:18:00(UTC) Zhou: Yeah, I think I will.
+
+2023-03-10 09:20:00(UTC) Li: I'm sure you'll feel better soon.
+
+2023-03-10 09:22:00(UTC) Zhao: Have you tried drinking some herbal tea?
+
+2023-03-10 09:25:00(UTC) Zhou: I haven't tried that yet.
+
+2023-03-10 09:27:00(UTC) Chen: It might help to reduce your stress.
+
+2023-03-10 09:30:00(UTC) Zhou: That sounds like a good idea.
+
+2023-03-10 09:32:00(UTC) Wang: Maybe you should try some relaxation exercises too.
+
+2023-03-10 09:35:00(UTC) Zhou: Yeah, that would definitely be helpful.
+
+2023-03-10 09:37:00(UTC) Li: You could also take a warm bath.
+
+2023-03-10 09:40:00(UTC) Zhou: Yeah, that sounds really nice.
+
+2023-03-10 09:42:00(UTC) Zhang: Maybe some aromatherapy too.
+
+2023-03-10 09:45:00(UTC) Zhou: Yeah, that might help me relax.
+
+2023-03-10 09:47:00(UTC) Xu: Have you tried listening to some calming music?
+
+2023-03-10 09:50:00(UTC) Zhou: I haven't tried that yet.
+
+2023-03-10 09:52:00(UTC) Wang: It might help to reduce your stress.
+
+2023-03-10 09:55:00(UTC) Zhou: That definitely sounds like a good idea.
+
+2023-03-10 09:57:00(UTC) Li: You could also try some deep breathing exercises.
+
+2023-03-10 10:00:00(UTC) Zhou: Yeah, that would definitely be helpful.
+
+2023-03-10 10:02:00(UTC) Zhao: Have you tried going for a walk?
+
+2023-03-10 10:05:00(UTC) Zhou: I haven't tried that yet.
+
+2023-03-10 10:07:00(UTC) Chen: It might help to clear your mind.
+
+2023-03-10 10:10:00(UTC) Zhou: That definitely sounds like a good idea.
+
+2023-03-10 10:12:00(UTC) Wang: Maybe you could try some meditation too.
+
+2023-03-10 10:15:00(UTC) Zhou: Yeah, that would definitely be helpful.

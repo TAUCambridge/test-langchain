@@ -1,0 +1,33 @@
+2023-03-10 09:00:00(UTC) Harden: I'm going to see Avatar tomorrow!
+2023-03-10 09:01:00(UTC) Smith: Wow, that sounds exciting!
+2023-03-10 09:02:00(UTC) Johnson: I've heard it's really good!
+2023-03-10 09:03:00(UTC) Williams: I'm jealous, I wish I could go too. 
+2023-03-10 09:04:00(UTC) Davis: I've already seen it, it's amazing!
+2023-03-10 09:05:00(UTC) Miller: I've been meaning to go for a while.
+2023-03-10 09:06:00(UTC) Wilson: I'm sure you'll love it Harden.
+2023-03-10 09:07:00(UTC) Moore: I heard the special effects are amazing.
+2023-03-10 09:08:00(UTC) Taylor: Yeah, I can't wait to see it!
+2023-03-10 09:09:00(UTC) Harden: Anyone else here like superheroes movies?
+2023-03-10 09:10:00(UTC) Smith: I love them! I'm a big fan of the Marvel movies.
+2023-03-10 09:11:00(UTC) Johnson: Me too! I'm especially a fan of the Iron Man series.
+2023-03-10 09:12:00(UTC) Williams: Yeah they're great! My favorite is probably The Avengers.
+2023-03-10 09:13:00(UTC) Davis: I'm a DC fan myself. I love the Batman movies.
+2023-03-10 09:14:00(UTC) Miller: Yeah, I'm a fan of those too!
+2023-03-10 09:15:00(UTC) Wilson: I'm more of a fan of the old school superhero movies.
+2023-03-10 09:16:00(UTC) Moore: I'm with you! I love the Superman and Spiderman movies from the 90s.
+2023-03-10 09:17:00(UTC) Taylor: I'm a fan of the X-Men movies.
+2023-03-10 09:18:00(UTC) Harden: Yeah those are great! I'm also a fan of the original Star Wars trilogy.
+2023-03-10 09:19:00(UTC) Smith: Oh yeah, those are classics!
+2023-03-10 09:20:00(UTC) Johnson: Definitely! I'm looking forward to the new Star Wars movies as well. 
+2023-03-10 09:21:00(UTC) Williams: Me too! They look really promising.
+2023-03-10 09:22:00(UTC) Davis: I'm a huge fan of the Lord of the Rings movies.
+2023-03-10 09:23:00(UTC) Miller: I love those too! I'm looking forward to the new Amazon series.
+2023-03-10 09:24:00(UTC) Wilson: Yeah, I can't wait to see what they do with that.
+2023-03-10 09:25:00(UTC) Moore: I'm a fan of the Harry Potter movies.
+2023-03-10 09:26:00(UTC) Taylor: Me too! I'm also a fan of the Hunger Games movies.
+2023-03-10 09:27:00(UTC) Harden: Yeah, those are great too! I'm always a fan of classic comedy movies.
+2023-03-10 09:28:00(UTC) Smith: Oh yeah, those are always fun to watch!
+2023-03-10 09:29:00(UTC) Johnson: Definitely! I'm a big fan of the Monty Python movies.
+2023-03-10 09:30:00(UTC) Williams: I love those! I'm also a fan of the classic Disney movies.
+2023-03-10 09:31:00(UTC) Davis: Yeah, those are great! I'm a fan of the Pixar movies too.
+2023-03-10 09:32:00(UTC) Miller: Me too! Those are always so creative and fun to watch.
